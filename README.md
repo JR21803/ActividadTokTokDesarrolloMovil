@@ -6,6 +6,13 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
+### Firebase configuration
+
+`lib/firebase_options.dart` is intentionally ignored by Git. After cloning this
+repository, install the FlutterFire CLI and run `flutterfire configure` from the
+project directory to generate this file for your Firebase project before
+building or running the app.
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
